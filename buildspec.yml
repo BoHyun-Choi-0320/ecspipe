@@ -6,7 +6,7 @@ env:
 
 env:
   variables:
-    AWS_ECR: 440263844326.dkr.ecr.ap-northeast-2.amazonaws.com
+    AWS_ECR: 445567106113.dkr.ecr.ap-northeast-2.amazonaws.com
     IMAGE_REPO_NAME: test
     CONTAINER_NAME: test-container
   
